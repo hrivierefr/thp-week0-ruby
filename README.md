@@ -1,4 +1,4 @@
-# thp-wk0-ruby
+# thp-week0-day4
 
 Réponses aux questions des exercices :
 - Exercice 3 :
